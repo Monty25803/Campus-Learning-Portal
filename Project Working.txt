@@ -1,0 +1,28 @@
+* Python 3.7+
+* Postgres SQL DB 9.4+ (s/w) 
+* pip 6.1.1+
+* virtualenv 12.1.1+
+
+* requirements.txt = pip install -r requirements.txt
+
+* Django==1.8
+* django-ranged-response==0.2.0
+* django-simple-captcha==0.5.11
+* gunicorn==19.9.0
+* Pillow==6.0.0
+* psycopg2-binary==2.8.2
+* six==1.12.0
+
+* Database:-
+* create database academicstoday_db;
+* \list = list
+
+* CREATE USER django WITH PASSWORD '123password';
+* GRANT ALL PRIVILEGES ON DATABASE academicstoday_db to django;
+
+* Redirecting Directory of secret settings....
+* cp secret_settings_example.py secret_settings.py
+
+* python manage.py setup_vssutlearning
+* cd campus_learning_portal
+* python manage.py runserver

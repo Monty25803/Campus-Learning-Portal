@@ -1,0 +1,15 @@
+/* TEAM */
+        Lead Developer: Devi Prasana Mishra
+        Contact: deviprasan25803 [at] gmail.com
+
+        Professor: Dr. D. Chandrasekhar Rao
+        Contact: dcrao_it [at] vssut.ac.in
+
+
+        Lead Designer: D. Gouri Sankar
+        Contact: dgourisankarmohanty [at] gmail.com
+
+/* TECHNOLOGY COLOPHON */
+        Django
+        HTML5
+        Twitter Bootstrap
