@@ -1,4 +1,4 @@
-# VSSUT eApplication - Run Guide
+# Campus Learning Portal - Run Guide
 
 ## 1) Create and activate environment (Python 3.12)
 
