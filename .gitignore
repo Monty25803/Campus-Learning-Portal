@@ -198,3 +198,14 @@ academicstoday_project/staticfiles
 academicstoday-env/
 *.cfg
 academicstoday_project/academicstoday_project/secret_settings.py
+
+# --- Modern project paths (Campus Learning Portal) ---
+.venv312/
+.venv/
+venv/
+.idea/
+CampusLearningPortal_project/db.sqlite3
+CampusLearningPortal_project/db.sqlite3-journal
+CampusLearningPortal_project/campus_learning_portal/secret_settings.py
+**/__pycache__/
+*.pyc
